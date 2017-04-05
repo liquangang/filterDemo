@@ -1,0 +1,23 @@
+PODS:
+  - GPUImage (0.1.7)
+  - TuSDK (2.6.3):
+    - TuSDK/Core (= 2.6.3)
+    - TuSDK/GPUImage (= 2.6.3)
+    - TuSDK/ImageGeeV1 (= 2.6.3)
+    - TuSDK/ImageGeeV2 (= 2.6.3)
+  - TuSDK/Core (2.6.3)
+  - TuSDK/GPUImage (2.6.3):
+    - GPUImage (~> 0.1.6)
+  - TuSDK/ImageGeeV1 (2.6.3)
+  - TuSDK/ImageGeeV2 (2.6.3)
+
+DEPENDENCIES:
+  - TuSDK
+
+SPEC CHECKSUMS:
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  TuSDK: 172852c5ce5db82af759947f85f5cc608d738d77
+
+PODFILE CHECKSUM: c2e00e02503b3d6370eee04b521edef2b4cb69a0
+
+COCOAPODS: 1.1.1
